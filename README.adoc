@@ -1,0 +1,25 @@
+# Hacker-Dom Consulting
+
+## Contact
+
+[cols="1,1"]
+|===
+| https://t.me/hckr_dom[@hckr_dom (Telegram)]
+| https://lnk.bio/hacker-dom[lnk.bio/hacker-dom]
+|===
+
+## Prior work (A Selection of My Public Work)
+
+[cols="1,1,1"]
+|===
+| Project | Date | Link
+
+| Trader Joe | March 2022 | https://ackeeblockchain.com/blog/ackee-blockchain-audited-trader-joe[Ackee Blockchain blog post]
+| RocketPool | September 2021 | https://github.com/trailofbits/publications/blob/f7ba3109867492a940f515a14fbda0eb05219081/reviews/RocketPool.pdf[ToB audit report]
+| Opyn | May 2021 | https://github.com/trailofbits/publications/blob/f7ba3109867492a940f515a14fbda0eb05219081/reviews/Opyn-Gamma-Protocol.pdf[ToB audit report]
+| Uniswap V3 | March 2021 | https://github.com/trailofbits/publications/blob/f7ba3109867492a940f515a14fbda0eb05219081/reviews/UniswapV3Core.pdf[ToB audit report]
+| Origin Dollar | January 2021 | https://github.com/trailofbits/publications/blob/f8ba3109867492a940f515a14fbda0eb05219081/reviews/OriginDollar.pdf[ToB audit report]
+| wXTZ | December 2020 | https://github.com/trailofbits/publications/blob/f7ba3109867492a940f515a14fbda0eb05219081/reviews/wXTZ.pdf[ToB audit report]
+| Optimism | October 2020 | https://github.com/ethereum-optimism/optimism/blob/5d9a38dcd9dc79dce41a6d08f9b28ff850f77811/technical-documents/security-reviews/2020_10-Rollup-TrailOfBits.pdf[ToB audit report]
+| Dodo | September 2020 | https://github.com/trailofbits/publications/blob/f7ba3109867492a940f515a14fbda0eb05219081/reviews/dodo.pdf[ToB audit report]
+|===
