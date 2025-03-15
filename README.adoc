@@ -1,12 +1,12 @@
-# Hacker-Dom Consulting
+# Logic Group Consulting
 
-## Contact
-
-[cols="1,1"]
-|===
-| https://t.me/hckr_dom[@hckr_dom (Telegram)]
-| https://lnk.bio/hacker-dom[lnk.bio/hacker-dom]
-|===
+// ## Contact
+// 
+// [cols="1,1"]
+// |===
+// | https://t.me/hckr_dom[@hckr_dom (Telegram)]
+// | https://lnk.bio/hacker-dom[lnk.bio/hacker-dom]
+// |===
 
 ## Prior work (A Selection of My Public Work)
 
@@ -14,7 +14,12 @@
 |===
 | Project | Date | Link
 
-| Trader Joe | March 2022 | https://ackeeblockchain.com/blog/ackee-blockchain-audited-trader-joe[Ackee Blockchain blog post]
+| Axelar | March 2022 |
+https://github.com/axelarnetwork/audits/blob/main/audits/2022-04%20Ackee%20blockchain.pdf[Ackee audit report]
+| Trader Joe | March 2022 | https://ackee.xyz/blog/ackee-blockchain-audited-trader-joe/[Ackee audit report]
+| Siren | February 2022 |
+https://cdn.prod.website-files.com/610fc6a1e961affb229320ba/633e9d068baa7b5a0d741afc_abch-siren-amm-report-feb-2022.pdf[Ackee
+audit report]
 | RocketPool | September 2021 | https://github.com/trailofbits/publications/blob/f7ba3109867492a940f515a14fbda0eb05219081/reviews/RocketPool.pdf[ToB audit report]
 | Opyn | May 2021 | https://github.com/trailofbits/publications/blob/f7ba3109867492a940f515a14fbda0eb05219081/reviews/Opyn-Gamma-Protocol.pdf[ToB audit report]
 | Uniswap V3 | March 2021 | https://github.com/trailofbits/publications/blob/f7ba3109867492a940f515a14fbda0eb05219081/reviews/UniswapV3Core.pdf[ToB audit report]
